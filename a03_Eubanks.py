@@ -1,6 +1,7 @@
 ##########################################################################
 # eubanksn - Noah Eubanks
 # a03-psychedelic turtles
+# https://docs.google.com/document/d/17ODFX0orkAU-5pPhwXq50cFMBC8UvH7jChJL02Z1mRE/edit?usp=sharing
 #######################################################################
 
 import turtle
